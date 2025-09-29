@@ -4,6 +4,8 @@
 
 Este é um aplicativo desktop desenvolvido em Python para automação de envio de emails em massa com suporte completo para HTML. Ideal para newsletters, campanhas de marketing e comunicação corporativa.
 
+Autor:Jean Carlos Ventura Motta
+
 ## ✨ Funcionalidades
 
 - ✅ **Envio em massa** para múltiplos destinatários
@@ -132,19 +134,3 @@ destinatario3@servico.com
 3. **Corporativo**: Newsletters internas
 4. **Marketing**: Promoções e ofertas
 
-## 🤝 Contribuições
-
-Sinta-se à vontade para:
-- Reportar problemas
-- Sugerir melhorias
-- Compartilhar templates HTML adicionais
-
-## 📄 Licença
-
-Projeto livre para uso pessoal e comercial.
-
----
-
-**Desenvolvido com Python** 🐍 | **Interface Tkinter** | **Suporte HTML Completo**
-
-💡 **Dica**: Sempre teste com uma pequena lista antes do envio em massa!
