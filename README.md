@@ -4,7 +4,8 @@
 
 Este é um aplicativo desktop desenvolvido em Python para automação de envio de emails em massa com suporte completo para HTML. Ideal para newsletters, campanhas de marketing e comunicação corporativa.
 
-Autor:Jean Carlos Ventura Motta
+Jean Carlos Ventura Motta
+RA: 25001870
 
 ## ✨ Funcionalidades
 
